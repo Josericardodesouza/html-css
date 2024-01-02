@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: netflix;
+    src: url(fonts/BebasNeue.otf);
+
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+    font-family: netflix;
+    font-size: 50px;
+    
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: small;
+    
+}
+

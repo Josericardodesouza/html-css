@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+header {
+    background-color: blue;
+    box-shadow: 3px 5px 4px black;
+    text-align: center;
+    
+}
+
+nav {
+    background-color: red;
+    box-shadow: 3px 5px 4px black;
+    
+}
+
+.banco {
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, 
+    Verdana, sans-serif;
+}
+ h1{
+    color: orange;
+    background-color: black;
+ }
+ h2 {
+    color: orange;
+    background-color: black;
+ }
+ h3 {
+    color: orange;
+ }
+ p {
+    text-align: justify;
+ }
